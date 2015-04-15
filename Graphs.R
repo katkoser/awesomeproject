@@ -1,3 +1,5 @@
+##TESTING HOW TO UPDATE STUFF##
+
 #import data
 data(diamonds, package='ggplot2')
 head(diamonds)
