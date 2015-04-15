@@ -3,6 +3,7 @@
 ## I WILL MISS ALL THE FREE STARBUCKS ##
 #import data
 data(diamonds, package='ggplot2')
+##CREATINGCONFLICT##
 head(diamonds)
 
 #base graphics
